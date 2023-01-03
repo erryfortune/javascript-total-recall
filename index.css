@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(250,243,227);
+    
+
+}
+
+h3{
+    color: orangered;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+
+
